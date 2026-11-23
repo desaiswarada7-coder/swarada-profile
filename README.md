@@ -2,8 +2,12 @@
 
 A static, single-page personal profile site. The website entry point is `index.html`; the profile portrait is stored at `assets/profile.png`.
 
-## Publish with GitHub Pages
+## Live profile
 
-After adding this repository to GitHub, open **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, and save. GitHub Pages will provide a public URL that can be used to make a QR code.
+[View Swarada's profile](https://desaiswarada7-coder.github.io/myprofile_swarada/)
+
+## GitHub Pages
+
+The site is published from the `main` branch and repository root (`/(root)`). The public profile link can also be used to create a QR code.
 
 Book cover thumbnails load from the Open Library Covers API.
